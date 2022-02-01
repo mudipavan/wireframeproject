@@ -22,11 +22,11 @@ Add a table and a Calendar.
 Add a Text for home page and About us page and for photo gallery page add image boxes.
 ## OUTPUT:
 ### Home Page:
-![](1.JPEG)
+![output](1.JPEG)
 ### About Us:
-![](2.JPEG)
+![output](2.JPEG)
 ### Photo Gallery:
-![](3.JPEG)
+![output](3.JPEG)
 
 
 ## Result:
